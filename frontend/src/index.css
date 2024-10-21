@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400&display=swap');
+
+.font-nunito {
+    font-family: 'Nunito', sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+    transition: transform 0.3s ease;
+  }
+
+  .theme-controller {
+    transition: transform 0.3s ease;
+  }
+
+  .swap-off,
+  .swap-on {
+    transition: opacity 0.3s ease, transform 0.3s ease;
+  }
+
+  .img {
+    mix-blend-mode: lighten;
+}
+
+@keyframes slowBounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.animate-slow-bounce {
+  animation: slowBounce 2s ease-in-out infinite;
+}
+
+.modal {
+  backdrop-filter: blur(10px);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-box {
+  border-radius: 10px;
+  padding: 20px 30px;
+  max-width: 400px;
+  margin: auto;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s;
+}
+
+.modal-box {
+  background: rgba(30, 30, 30, 0.9);
+  color: #fff;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+.input-field:focus {
+  border-color: #ff4f81;
+}
+
+p:hover span {
+  text-decoration: underline;
+  color: #1a73e8;
+}

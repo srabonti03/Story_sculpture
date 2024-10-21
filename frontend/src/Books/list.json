@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Gatsby",
+        "author": "by F. Scott Fitzgerald",
+        "price": 0,
+        "category": "Free",
+        "image" : "./1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "1984",
+        "author": "by George Orwell",
+        "price": 0,
+        "category": "Free",
+        "image": "./2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "To Kill a Mockingbird",
+        "author": "by Harper Lee",
+        "price": 0,
+        "category": "Free",
+        "image": "./3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pride and Prejudice",
+        "author": "by Jane Austen",
+        "price": 0,
+        "category": "Free",
+        "image": "./4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Moby Dick",
+        "author": "by Herman Melville",
+        "price": 0,
+        "category": "Free",
+        "image": "./5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "War and Peace",
+        "author": "by Leo Tolstoy",
+        "price": 0,
+        "category": "Free",
+        "image": "./6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "The Catcher in the Rye",
+        "author": "by J.D. Salinger",
+        "price": 0,
+        "category": "Free",
+        "image": "./7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "The Odyssey",
+        "author": "by Homer",
+        "price": 0,
+        "category": "Free",
+        "image": "./8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Crime and Punishment",
+        "author": "by Fyodor Dostoevsky",
+        "price": 0,
+        "category": "Free",
+        "image": "./9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Brave New World",
+        "author": "by Aldous Huxley",
+        "price": 0,
+        "category": "Free",
+        "image": "./10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "The Hating Game",
+        "author": "by Sally Thorne",
+        "price": 10.99,
+        "category": "Romance",
+        "image": "./11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Red, White & Royal Blue",
+        "author": "by Casey McQuiston",
+        "price": 8.99,
+        "category": "Romance",
+        "image": "./12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Beach Read",
+        "author": "by Emily Henry",
+        "price": 7.99,
+        "category": "Romance",
+        "image": "./13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "It Ends with Us",
+        "author": "by Colleen Hoover",
+        "price": 6.99,
+        "category": "Romance",
+        "image": "./14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "The Kiss Quotient",
+        "author": "by Helen Hoang",
+        "price": 9.99,
+        "category": "Romance",
+        "image": "./15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "People We Meet on Vacation",
+        "author": "by Emily Henry",
+        "price": 10.50,
+        "category": "Dystopian",
+        "image": "./16.jpg"
+    },
+    {
+        "id": 17,
+        "name": "The Hobbit",
+        "author": "by J.R.R. Tolkien",
+        "price": 12.99,
+        "category": "Fantasy",
+        "image": "./17.jpg"
+    },
+    {
+        "id": 18,
+        "name": "The Alchemist",
+        "author": "by Paulo Coelho",
+        "price": 11.99,
+        "category": "Fiction",
+        "image": "./18.jpg"
+    },
+    {
+        "id": 19,
+        "name": "The Da Vinci Code",
+        "author": "by Dan Brown",
+        "price": 14.99,
+        "category": "Thriller",
+        "image": "./19.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "author": "by J.K. Rowling",
+        "price": 12.99,
+        "category": "Fantasy",
+        "image": "./20.jpg"
+    },
+    {
+        "id": 21,
+        "name": "The Road",
+        "author": "by Cormac McCarthy",
+        "price": 9.99,
+        "category": "Post-apocalyptic",
+        "image": "./21.jpg"
+    },
+    {
+        "id": 22,
+        "name": "The Book Thief",
+        "author": "by Markus Zusak",
+        "price": 10.99,
+        "category": "Historical Fiction",
+        "image": "./22.jpg"
+    },
+    {
+        "id": 23,
+        "name": "The Chronicles of Narnia",
+        "author": "by C.S. Lewis",
+        "price": 13.99,
+        "category": "Fantasy",
+        "image": "./23.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Fahrenheit 451",
+        "author": "by Ray Bradbury",
+        "price": 11.50,
+        "category": "Dystopian",
+        "image": "./24.png"
+    },
+    {
+        "id": 25,
+        "name": "Animal Farm",
+        "author": "by George Orwell",
+        "price": 6.99,
+        "category": "Satire",
+        "image": "./25.jpg"
+    },
+    {
+        "id": 26,
+        "name": "The Picture of Dorian Gray",
+        "author": "by Oscar Wilde",
+        "price": 8.50,
+        "category": "Classic",
+        "image": "./26.jpg"
+    },
+    {
+        "id": 27,
+        "name": "The Fault in Our Stars",
+        "author": "by John Green",
+        "price": 10.99,
+        "category": "Young Adult",
+        "image": "./27.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Little Women",
+        "author": "by Louisa May Alcott",
+        "price": 7.50,
+        "category": "Classic",
+        "image": "./28.jpg"
+    },
+    {
+        "id": 29,
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "author": "by Douglas Adams",
+        "price": 9.99,
+        "category": "Science Fiction",
+        "image": "./29.jpg"
+    },
+    {
+        "id": 30,
+        "name": "The Kite Runner",
+        "author": "by Khaled Hosseini",
+        "price": 11.99,
+        "category": "Fiction",
+        "image": "./30.jpg"
+    }
+]
