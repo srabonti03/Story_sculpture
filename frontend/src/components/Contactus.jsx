@@ -10,6 +10,8 @@ function Contactus() {
     message: '',
   });
 
+  const [isClicked, setIsClicked] = useState(false);
+
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
@@ -17,8 +19,13 @@ function Contactus() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    setIsClicked(true);
+    setTimeout(() => {
+      setIsClicked(false);
+    }, 300);
 
     // Send email using EmailJS
+    //server id, template id, api id
     emailjs
       .send('service_dd70hvh', 'template_kbq6xua', {
         from_name: formData.name,
@@ -108,7 +115,13 @@ function Contactus() {
           ></textarea>
         </div>
 
-        <button type='submit' className='btn btn-primary w-full flex justify-center items-center space-x-2 transform hover:scale-105 transition duration-500'>
+        <button 
+          type='submit' 
+          className={`btn btn-primary w-full flex justify-center items-center space-x-2 transform transition duration-500 ${
+            isClicked ? 'scale-95' : 'hover:scale-105'
+          }`}
+          onMouseEnter={() => isClicked && setIsClicked(false)}
+        >
           <FaPaperPlane className='text-lg' />
           <span>Send Message</span>
         </button>
