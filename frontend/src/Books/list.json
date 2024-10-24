@@ -5,7 +5,9 @@
         "author": "by F. Scott Fitzgerald",
         "price": 0,
         "category": "Free",
-        "image" : "./1.jpg"
+        "image": "./1.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 2,
@@ -13,7 +15,9 @@
         "author": "by George Orwell",
         "price": 0,
         "category": "Free",
-        "image": "./2.jpg"
+        "image": "./2.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 3,
@@ -21,7 +25,9 @@
         "author": "by Harper Lee",
         "price": 0,
         "category": "Free",
-        "image": "./3.jpg"
+        "image": "./3.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 4,
@@ -29,7 +35,9 @@
         "author": "by Jane Austen",
         "price": 0,
         "category": "Free",
-        "image": "./4.jpg"
+        "image": "./4.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 5,
@@ -37,7 +45,9 @@
         "author": "by Herman Melville",
         "price": 0,
         "category": "Free",
-        "image": "./5.jpg"
+        "image": "./5.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 6,
@@ -45,7 +55,9 @@
         "author": "by Leo Tolstoy",
         "price": 0,
         "category": "Free",
-        "image": "./6.jpg"
+        "image": "./6.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 7,
@@ -53,7 +65,9 @@
         "author": "by J.D. Salinger",
         "price": 0,
         "category": "Free",
-        "image": "./7.jpg"
+        "image": "./7.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 8,
@@ -61,7 +75,9 @@
         "author": "by Homer",
         "price": 0,
         "category": "Free",
-        "image": "./8.jpg"
+        "image": "./8.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 9,
@@ -69,7 +85,9 @@
         "author": "by Fyodor Dostoevsky",
         "price": 0,
         "category": "Free",
-        "image": "./9.jpg"
+        "image": "./9.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 10,
@@ -77,7 +95,9 @@
         "author": "by Aldous Huxley",
         "price": 0,
         "category": "Free",
-        "image": "./10.jpg"
+        "image": "./10.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 11,
@@ -85,7 +105,9 @@
         "author": "by Sally Thorne",
         "price": 10.99,
         "category": "Romance",
-        "image": "./11.jpg"
+        "image": "./11.jpg",
+        "newArrival": false,
+        "bestSeller": true
     },
     {
         "id": 12,
@@ -93,7 +115,9 @@
         "author": "by Casey McQuiston",
         "price": 8.99,
         "category": "Romance",
-        "image": "./12.jpg"
+        "image": "./12.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 13,
@@ -101,7 +125,9 @@
         "author": "by Emily Henry",
         "price": 7.99,
         "category": "Romance",
-        "image": "./13.jpg"
+        "image": "./13.jpg",
+        "newArrival": false,
+        "bestSeller": true
     },
     {
         "id": 14,
@@ -109,7 +135,9 @@
         "author": "by Colleen Hoover",
         "price": 6.99,
         "category": "Romance",
-        "image": "./14.jpg"
+        "image": "./14.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 15,
@@ -117,7 +145,9 @@
         "author": "by Helen Hoang",
         "price": 9.99,
         "category": "Romance",
-        "image": "./15.jpg"
+        "image": "./15.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 16,
@@ -125,7 +155,9 @@
         "author": "by Emily Henry",
         "price": 10.50,
         "category": "Dystopian",
-        "image": "./16.jpg"
+        "image": "./16.jpg",
+        "newArrival": false,
+        "bestSeller": true
     },
     {
         "id": 17,
@@ -133,7 +165,9 @@
         "author": "by J.R.R. Tolkien",
         "price": 12.99,
         "category": "Fantasy",
-        "image": "./17.jpg"
+        "image": "./17.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 18,
@@ -141,7 +175,9 @@
         "author": "by Paulo Coelho",
         "price": 11.99,
         "category": "Fiction",
-        "image": "./18.jpg"
+        "image": "./18.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 19,
@@ -149,7 +185,9 @@
         "author": "by Dan Brown",
         "price": 14.99,
         "category": "Thriller",
-        "image": "./19.jpg"
+        "image": "./19.jpg",
+        "newArrival": false,
+        "bestSeller": true
     },
     {
         "id": 20,
@@ -157,7 +195,9 @@
         "author": "by J.K. Rowling",
         "price": 12.99,
         "category": "Fantasy",
-        "image": "./20.jpg"
+        "image": "./20.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 21,
@@ -165,7 +205,9 @@
         "author": "by Cormac McCarthy",
         "price": 9.99,
         "category": "Post-apocalyptic",
-        "image": "./21.jpg"
+        "image": "./21.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 22,
@@ -173,7 +215,9 @@
         "author": "by Markus Zusak",
         "price": 10.99,
         "category": "Historical Fiction",
-        "image": "./22.jpg"
+        "image": "./22.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 23,
@@ -181,7 +225,9 @@
         "author": "by C.S. Lewis",
         "price": 13.99,
         "category": "Fantasy",
-        "image": "./23.jpg"
+        "image": "./23.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 24,
@@ -189,7 +235,9 @@
         "author": "by Ray Bradbury",
         "price": 11.50,
         "category": "Dystopian",
-        "image": "./24.png"
+        "image": "./24.png",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 25,
@@ -197,7 +245,9 @@
         "author": "by George Orwell",
         "price": 6.99,
         "category": "Satire",
-        "image": "./25.jpg"
+        "image": "./25.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 26,
@@ -205,7 +255,9 @@
         "author": "by Oscar Wilde",
         "price": 8.50,
         "category": "Classic",
-        "image": "./26.jpg"
+        "image": "./26.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 27,
@@ -213,7 +265,9 @@
         "author": "by John Green",
         "price": 10.99,
         "category": "Young Adult",
-        "image": "./27.jpg"
+        "image": "./27.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 28,
@@ -221,7 +275,9 @@
         "author": "by Louisa May Alcott",
         "price": 7.50,
         "category": "Classic",
-        "image": "./28.jpg"
+        "image": "./28.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 29,
@@ -229,14 +285,318 @@
         "author": "by Douglas Adams",
         "price": 9.99,
         "category": "Science Fiction",
-        "image": "./29.jpg"
+        "image": "./29.jpg",
+        "newArrival": false,
+        "bestSeller": false
     },
     {
         "id": 30,
+        "name": "The Shadow of the Wind",
+        "author": "by Carlos Ruiz Zafón",
+        "price": 12.50,
+        "category": "Mystery",
+        "image": "./30.jpg",
+        "newArrival": true,
+        "bestSeller": false
+    },
+    {
+        "id": 31,
+        "name": "Where the Crawdads Sing",
+        "author": "by Delia Owens",
+        "price": 14.99,
+        "category": "Literary Fiction",
+        "image": "./31.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 32,
+        "name": "The Silent Patient",
+        "author": "by Alex Michaelides",
+        "price": 13.50,
+        "category": "Thriller",
+        "image": "./32.jpg",
+        "newArrival": false,
+        "bestSeller": false
+    },
+    {
+        "id": 33,
+        "name": "The Seven Husbands of Evelyn Hugo",
+        "author": "by Taylor Jenkins Reid",
+        "price": 15.00,
+        "category": "Historical Fiction",
+        "image": "./33.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 34,
+        "name": "Daisy Jones & The Six",
+        "author": "by Taylor Jenkins Reid",
+        "price": 11.99,
+        "category": "Historical Fiction",
+        "image": "./34.jpg",
+        "newArrival": false,
+        "bestSeller": false
+    },
+    {
+        "id": 35,
+        "name": "Normal People",
+        "author": "by Sally Rooney",
+        "price": 10.99,
+        "category": "Literary Fiction",
+        "image": "./35.jpg",
+        "newArrival": false,
+        "bestSeller": false
+    },
+    {
+        "id": 36,
+        "name": "Anxious People",
+        "author": "by Fredrik Backman",
+        "price": 16.99,
+        "category": "Literary Fiction",
+        "image": "./36.jpg",
+        "newArrival": true,
+        "bestSeller": false
+    },
+    {
+        "id": 37,
+        "name": "The Invisible Life of Addie LaRue",
+        "author": "by V.E. Schwab",
+        "price": 14.99,
+        "category": "Fantasy",
+        "image": "./37.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 38,
+        "name": "The Midnight Library",
+        "author": "by Matt Haig",
+        "price": 13.99,
+        "category": "Fantasy",
+        "image": "./38.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 39,
+        "name": "Educated",
+        "author": "by Tara Westover",
+        "price": 11.99,
+        "category": "Memoir",
+        "image": "./39.jpg",
+        "newArrival": true,
+        "bestSeller": false
+    },
+    {
+        "id": 40,
+        "name": "The House in the Cerulean Sea",
+        "author": "by TJ Klune",
+        "price": 16.50,
+        "category": "Fantasy",
+        "image": "./40.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 41,
+        "name": "The Guest List",
+        "author": "by Lucy Foley",
+        "price": 12.99,
+        "category": "Thriller",
+        "image": "./41.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 42,
+        "name": "Little Fires Everywhere",
+        "author": "by Celeste Ng",
+        "price": 14.50,
+        "category": "Literary Fiction",
+        "image": "./42.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 43,
         "name": "The Kite Runner",
         "author": "by Khaled Hosseini",
         "price": 11.99,
         "category": "Fiction",
-        "image": "./30.jpg"
+        "image": "./43.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 44,
+        "name": "The Night Circus",
+        "author": "by Erin Morgenstern",
+        "price": 10.99,
+        "category": "Fantasy",
+        "image": "./44.jpg",
+        "newArrival": true,
+        "bestSeller": false
+    },
+    {
+        "id": 45,
+        "name": "Circe",
+        "author": "by Madeline Miller",
+        "price": 13.99,
+        "category": "Fantasy",
+        "image": "./45.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 46,
+        "name": "The Vanishing Half",
+        "author": "by Brit Bennett",
+        "price": 15.00,
+        "category": "Literary Fiction",
+        "image": "./46.jpg",
+        "newArrival": true,
+        "bestSeller": false
+    },
+    {
+        "id": 47,
+        "name": "Malibu Rising",
+        "author": "by Taylor Jenkins Reid",
+        "price": 17.00,
+        "category": "Historical Fiction",
+        "image": "./47.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 48,
+        "name": "The Song of Achilles",
+        "author": "by Madeline Miller",
+        "price": 12.99,
+        "category": "Historical Fiction",
+        "image": "./48.jpg",
+        "newArrival": false,
+        "bestSeller": false
+    },
+    {
+        "id": 49,
+        "name": "The Woman in the Window",
+        "author": "by A.J. Finn",
+        "price": 11.50,
+        "category": "Thriller",
+        "image": "./49.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 50,
+        "name": "The Silent Corner",
+        "author": "by Dean Koontz",
+        "price": 13.50,
+        "category": "Thriller",
+        "image": "./50.jpg",
+        "newArrival": false,
+        "bestSeller": false
+    },
+    {
+        "id": 51,
+        "name": "The Henna Artist",
+        "author": "by Alka Joshi",
+        "price": 16.99,
+        "category": "Historical Fiction",
+        "image": "./51.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 52,
+        "name": "The Light We Lost",
+        "author": "by Jill Santopolo",
+        "price": 11.99,
+        "category": "Romance",
+        "image": "./52.jpg",
+        "newArrival": true,
+        "bestSeller": false
+    },
+    {
+        "id": 53,
+        "name": "The Guest Book",
+        "author": "by Sarah Blake",
+        "price": 15.99,
+        "category": "Historical Fiction",
+        "image": "./53.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 54,
+        "name": "The Nightingale",
+        "author": "by Kristin Hannah",
+        "price": 12.50,
+        "category": "Historical Fiction",
+        "image": "./54.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 55,
+        "name": "The Tattooist of Auschwitz",
+        "author": "by Heather Morris",
+        "price": 13.99,
+        "category": "Historical Fiction",
+        "image": "./55.jpg",
+        "newArrival": false,
+        "bestSeller": false
+    },
+    {
+        "id": 56,
+        "name": "The Giver of Stars",
+        "author": "by Jojo Moyes",
+        "price": 12.99,
+        "category": "Historical Fiction",
+        "image": "./56.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 57,
+        "name": "A Man Called Ove",
+        "author": "by Fredrik Backman",
+        "price": 10.99,
+        "category": "Contemporary Fiction",
+        "image": "./57.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 58,
+        "name": "Little Secrets",
+        "author": "by Jennifer Hillier",
+        "price": 15.99,
+        "category": "Thriller",
+        "image": "./58.jpg",
+        "newArrival": true,
+        "bestSeller": false
+    },
+    {
+        "id": 59,
+        "name": "The Family Upstairs",
+        "author": "by Lisa Jewell",
+        "price": 11.99,
+        "category": "Thriller",
+        "image": "./59.jpg",
+        "newArrival": false,
+        "bestSeller": true
+    },
+    {
+        "id": 60,
+        "name": "The Whisper Man",
+        "author": "by Alex North",
+        "price": 14.50,
+        "category": "Thriller",
+        "image": "./60.jpg",
+        "newArrival": false,
+        "bestSeller": false
     }
 ]

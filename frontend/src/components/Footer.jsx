@@ -18,9 +18,9 @@ function Footer() {
         {/* Navigation Links */}
         <nav className="grid grid-flow-col gap-4">
           <Link to="/about" className="link link-hover text-lg font-bold hover:text-primary transition duration-200">About Our Bookstore</Link>
-          <a className="link link-hover text-lg font-bold hover:text-primary transition duration-200">New Arrivals</a>
-          <a className="link link-hover text-lg font-bold hover:text-primary transition duration-200">Best Sellers</a>
-          <a className="link link-hover text-lg font-bold hover:text-primary transition duration-200">Events</a>
+          <Link to="/newarrivals" className="link link-hover text-lg font-bold hover:text-primary transition duration-200">New Arrivals</Link>
+          <Link to="/bestseller" className="link link-hover text-lg font-bold hover:text-primary transition duration-200">Best Sellers</Link>
+          <Link to="/events" className="link link-hover text-lg font-bold hover:text-primary transition duration-200">Events</Link>
         </nav>
 
         {/* Social Media Icons */}

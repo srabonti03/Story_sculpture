@@ -1,0 +1,133 @@
+[
+    {
+      "id": 1,
+      "title": "Virtual Book Signing with Author X",
+      "date": "October 28, 2024",
+      "time": "2:00 PM - 4:00 PM",
+      "location": "Zoom",
+      "description": "Join us for an exclusive virtual book signing event with Author X. Get your questions answered in real time!",
+      "image": "/e1.jpg",
+      "link": "https://zoom.us/j/1234567890"
+    },
+    {
+      "id": 2,
+      "title": "Live Storytelling for Kids",
+      "date": "November 5, 2024",
+      "time": "10:00 AM - 12:00 PM",
+      "location": "YouTube Live",
+      "description": "A magical morning of virtual stories for kids, hosted by a guest storyteller. Tune in live for interactive fun!",
+      "image": "/e2.jpg",
+      "link": "https://youtube.com/live/abcd1234"
+    },
+    {
+      "id": 3,
+      "title": "Creative Writing Workshop",
+      "date": "November 12, 2024",
+      "time": "4:00 PM - 6:00 PM",
+      "location": "Google Meet",
+      "description": "Join us for a creative writing workshop led by bestselling author Y. Perfect for aspiring writers looking for tips and inspiration.",
+      "image": "/e3.jpg",
+      "link": "https://meet.google.com/xyz-1234"
+    },
+    {
+      "id": 4,
+      "title": "Online Book Club: Discussing 'The Midnight Library'",
+      "date": "November 20, 2024",
+      "time": "7:00 PM - 8:30 PM",
+      "location": "Zoom",
+      "description": "Join our online book club as we dive deep into 'The Midnight Library' by Matt Haig. Bring your thoughts and favorite passages!",
+      "image": "/e4.jpg",
+      "link": "https://zoom.us/j/0987654321"
+    },
+    {
+      "id": 5,
+      "title": "Poetry Slam Night (Virtual Edition)",
+      "date": "December 3, 2024",
+      "time": "8:00 PM - 10:00 PM",
+      "location": "Twitch",
+      "description": "A night of virtual poetry performances! Join us on Twitch to watch live poetry readings and even share your own!",
+      "image": "/e5.jpg",
+      "link": "https://twitch.tv/storysculpture"
+    },
+    {
+      "id": 6,
+      "title": "Exclusive Membership Signup: 30% Off All Books!",
+      "date": "Ongoing",
+      "time": "Anytime",
+      "location": "Online Signup",
+      "description": "Become a Story Sculpture member today and enjoy 30% off all purchases! Exclusive deals, early access to events, and much more await you.",
+      "image": "/e6.jpg",
+      "link": "https://storysculpture.com/membership"
+    },
+    {
+      "id": 7,
+      "title": "Monthly Book Giveaway for Members",
+      "date": "November 25, 2024",
+      "time": "5:00 PM - 6:00 PM",
+      "location": "Instagram Live",
+      "description": "Join us for a live book giveaway! Only members can enter, so sign up for a chance to win bestselling books every month.",
+      "image": "/e7.jpg",
+      "link": "https://instagram.com/storysculpture"
+    },
+    {
+        "id": 8,
+        "title": "Interactive Fiction Writing Session",
+        "date": "December 10, 2024",
+        "time": "6:00 PM - 8:00 PM",
+        "location": "Microsoft Teams",
+        "description": "A hands-on, interactive fiction writing session where participants can collaborate on story ideas in real time. Perfect for anyone looking to hone their creative writing skills.",
+        "image": "/e8.jpg",
+        "link": "https://teams.microsoft.com/l/meetup-join/xyz-9876"
+      },
+      {
+        "id": 9,
+        "title": "Author Interview: Exploring New Genres",
+        "date": "December 15, 2024",
+        "time": "3:00 PM - 4:30 PM",
+        "location": "Facebook Live",
+        "description": "Join us for a live interview with bestselling author Z as they explore writing across different genres, from mystery to fantasy. Tune in and get your questions answered!",
+        "image": "e9.jpg",
+        "link": "https://facebook.com/storysculpture/live"
+      },
+      {
+        "id": 10,
+        "title": "Virtual Literary Trivia Night",
+        "date": "December 20, 2024",
+        "time": "7:00 PM - 9:00 PM",
+        "location": "Zoom",
+        "description": "Test your literary knowledge with a fun-filled trivia night! Compete with fellow book lovers for a chance to win exciting prizes. Open to all members.",
+        "image": "/e10.png",
+        "link": "https://zoom.us/j/2345678901"
+      },
+      {
+        "id": 11,
+        "title": "Flash Fiction Contest: 24-Hour Challenge",
+        "date": "December 23, 2024",
+        "time": "All Day",
+        "location": "Online Submission",
+        "description": "Unleash your creativity in this 24-hour flash fiction contest. Submit your story before midnight for a chance to be featured on our website and win a special prize.",
+        "image": "/e11.jpg",
+        "link": "https://storysculpture.com/flashfiction"
+      },
+      {
+        "id": 12,
+        "title": "Behind the Scenes: Writing a Bestseller",
+        "date": "January 5, 2025",
+        "time": "5:00 PM - 6:30 PM",
+        "location": "YouTube Live",
+        "description": "Ever wondered what goes into writing a bestseller? Join us for a behind-the-scenes look at the process with an acclaimed author who has topped the charts!",
+        "image": "/e12.jpg",
+        "link": "https://youtube.com/live/xyz7890"
+      },
+      {
+        "id": 13,
+        "title": "Virtual Author Meet & Greet",
+        "date": "January 10, 2025",
+        "time": "3:00 PM - 5:00 PM",
+        "location": "Instagram Live",
+        "description": "Join us for a casual virtual meet and greet with Author Y. Get to know their inspiration, upcoming projects, and ask any burning questions you have.",
+        "image": "/e13.jpg",
+        "link": "https://instagram.com/storysculpture"
+      }
+  ]
+  
